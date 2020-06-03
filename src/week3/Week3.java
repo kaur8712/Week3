@@ -17,6 +17,7 @@ public class Week3 {
     public static void main(String[] args) {
         System.out.println("learnng Github");
         System.out.println("learning github push");
+        Systrm.out.println("learning github pull");
     }
     
 }
